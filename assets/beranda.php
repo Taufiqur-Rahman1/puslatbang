@@ -10,7 +10,7 @@
     <!-- Header -->
     <header>
         <div class="logo">
-            <img src="lanri.png" alt="Logo LAN RI">
+            <img src="lanrinobg.png" alt="Logo LAN RI">
         </div>
         <nav>
             <ul>
@@ -28,7 +28,7 @@
     <section class="hero">
         <div class="hero-text">
             <h1>Sistem Informasi LAN RI</h1>
-            <p>Menyediakan layanan terbaik untuk pegawai dan masyarakat</p>
+            <p>Menyediakan Layanan Terbaik Untuk Pegawai dan Masyarakat</p>
         </div>
     </section>
 
