@@ -22,7 +22,7 @@
                 <li><a href="#">Hubungi Kami</a></li>
             </ul>
         </nav>
-    </header>uu
+    </header>
 
     <!-- Hero Section -->
     <section class="hero">
